@@ -1,0 +1,82 @@
+/* Base styles and CSS variables */
+
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Cairo Play", "Comic Sans MS", "Comic Sans", cursive;
+  background-color: darkorange;
+  color: var(--text);
+  line-height: 1.6;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Typography */
+h1,
+h2,
+h3 {
+  color: var(--color-secondary);
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: var(--color-secondary);
+}
+
+h2 {
+  font-size: 2rem;
+  background-color: aliceblue;
+  border-radius: 10ch;
+  color: var(--color-secondary);
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: var(--color-secondary);
+}
+
+p {
+  color: var(--color-accent);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+/* Links */
+a {
+  font-weight: 500;
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-secondary);
+  text-decoration: none;
+}
+
+/* Buttons */
+
+span {
+  background-color: var(--color-special);
+  color: plum;
+}
+.btn {
+  border-radius: 25px;
+}
+.btn-medium {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  text-decoration: none;
+}
+.btn-large {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+}

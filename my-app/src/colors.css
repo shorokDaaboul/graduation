@@ -1,0 +1,39 @@
+:root {
+  /* Main color palette */
+  --color-primary: #6A1B9A; /* Warm beige */
+  --color-secondary: #1339ab; /* Sage green */
+  --color-accent: #6A1B9A; /* Deep navy */
+  --color-accent-2: #ffffff; /* Coral */
+  --color-background: #c1dcf4; /* Light cream */
+  --color-cards: #8c91d2;
+  --color-hover-btn: #F8F9FA;
+  --color-special: #c55dba;
+}
+
+/* Utility classes */
+
+/* Basic theme setup */
+body {
+  background-color: var(--color-background);
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-accent-2);
+}
+.btn-secondary {
+  background-color: var(--color-secondary);
+  color: var(--color-accent-2);
+}
+
+/* Card styles */
+.card {
+  background-color: var(--color-cards);
+  border: 1px solid var(--color-primary);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+

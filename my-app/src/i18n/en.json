@@ -1,0 +1,114 @@
+{
+  "app": {
+    "name": "Kids Learning App"
+  },
+  "nav": {
+    "activities": "Activities",
+    "games": "Games",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Welcome to Kids Learning",
+    "subtitle": "Discover a world of fun and educational activities designed to help children learn and grow through play.",
+    "startButton": "Start Learning",
+    "features": {
+      "title": "What We Offer",
+      "learnMore": "Learn More",
+      "coloring": {
+        "title": "Creative Coloring",
+        "description": "Express creativity through our interactive coloring activities. Choose from hundreds of fun designs and learn about colors and shapes."
+      },
+      "puzzles": {
+        "title": "Brain Teasers",
+        "description": "Challenge young minds with engaging puzzles that develop problem-solving skills and critical thinking."
+      },
+      "memory": {
+        "title": "Memory Games",
+        "description": "Enhance memory and concentration with our collection of fun memory games designed for different age groups."
+      }
+    },
+    "cta": {
+      "title": "Join Our Learning Community",
+      "description": "Create a profile to track progress, save favorite activities, and unlock special features.",
+      "button": "Create Profile"
+    }
+  },
+  "activities": {
+    "title": "Learning Activities",
+    "subtitle": "Explore our collection of fun and educational activities designed to help children learn and grow.",
+    "search": {
+      "placeholder": "Search activities..."
+    },
+    "categories": {
+      "all": "All Activities",
+      "coloring": "Coloring",
+      "memory": "Memory Games",
+      "puzzle": "Puzzles"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "start": "Start Activity"
+  },
+  "games": {
+    "title": "Educational Games",
+    "subtitle": "Play and learn with our collection of fun educational games designed for different age groups.",
+    "search": {
+      "placeholder": "Search games..."
+    },
+    "categories": {
+      "all": "All Games",
+      "math": "Mathematics",
+      "language": "Language",
+      "science": "Science",
+      "geography": "Geography",
+      "music": "Music",
+      "art": "Art"
+    },
+    "ageRange": "Age Range",
+    "players": "Players",
+    "play": "Play Game"
+  },
+  "profile": {
+    "level": "Level",
+    "points": "Points",
+    "age": "Age",
+    "tabs": {
+      "info": "Information",
+      "activities": "Activities",
+      "settings": "Settings"
+    },
+    "about": {
+      "title": "About Me",
+      "joinDate": "Member Since",
+      "favorites": "Favorite Activities"
+    },
+    "activities": {
+      "title": "Recent Activities",
+      "score": "Score"
+    },
+    "settings": {
+      "title": "Profile Settings",
+      "name": "Name",
+      "age": "Age",
+      "avatar": "Choose Avatar",
+      "save": "Save Changes"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "Making learning fun and engaging for children through interactive activities and games."
+    },
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "Email: contact@kidslearning.com",
+      "phone": "Phone: (123) 456-7890"
+    }
+  }
+} 
